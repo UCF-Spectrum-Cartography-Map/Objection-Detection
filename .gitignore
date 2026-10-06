@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Results of YOLO26n.pt
+yolo26n.pt
+bus.jpg
